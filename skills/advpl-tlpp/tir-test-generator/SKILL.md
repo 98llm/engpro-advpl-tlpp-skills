@@ -4,8 +4,8 @@ description: 'Generate TIR (TOTVS Interface Robot) end-to-end test scripts in Py
 license: MIT
 metadata:
   domain: Protheus
-  maintainer: Engenharia Protheus - Dados & DevOps
-  author: Melkz Siqueira
+  maintainer: Customizações ADVPL/TLPP
+  author: Thalion Starforge
   version: '5.1.0'
   category: Testing
 ---
