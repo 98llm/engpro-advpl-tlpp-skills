@@ -88,7 +88,7 @@ Every TIR test project requires **three files**:
     "User": "{username}",
     "Password": "{password}",
     "Language": "pt-br",
-    "POUILogin": true,
+    "POUILogin": true
 }
 ```
 
